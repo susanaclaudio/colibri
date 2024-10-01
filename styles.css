@@ -1,0 +1,49 @@
+body {
+  background-color: #d2e0fb;
+}
+.cabecera {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  color: #16325b;
+  font-weight: bold;
+}
+.cabecera img {
+  width: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.conten1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: 800px;
+  font-size: 80px;
+  font-weight: bold;
+  color: #16325b;
+}
+.conten1 marquee {
+  text-align: center;
+}
+
+.contac2 {
+  width: 600px;
+  font-size: 22px;
+  text-align: justify;
+  color: #16325b;
+}
+.barnav {
+  margin-left: 50px;
+  font-size: 25px;
+}
+.barnav a {
+  margin-right: 50px;
+}
+.nos1 {
+  margin-left: 50px;
+  font-size: 25px;
+  color: #16325b;
+}
